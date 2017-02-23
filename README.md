@@ -1,5 +1,5 @@
 # GoPro-Phish
-This is the code for a new wifiphisher scenario that is used to get the password of a GoPro
+This is the code for a new <a href="https://github.com/wifiphisher/wifiphisher">wifiphisher</a> scenario that is used to get the password of a GoPro
 
 # Screenshots
 
